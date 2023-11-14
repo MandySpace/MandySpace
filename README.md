@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MandySpace
-- 👀 I’m interested in building cool stuff for the web, playing guitar and riding motorcycles!
-- 🌱 I’m currently learning React and Node.js
-- 💞️ I’m looking to collaborate on new and exciting projects!
+- 👀 I’m interested in building for the web
+- 🌱 I’m a Frontend Engineer currently delving into backend 
 - 📫 You can reach me on www.amandeepsinghdev.com
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MandySpace
 - 👀 I’m interested in building for the web
 - 🌱 I’m a Frontend Engineer currently delving into backend 
-- 📫 You can reach me on www.amandeepsinghdev.com
+- 📫 You can reach me on amandev.in
 
 <!---
 MandySpace/MandySpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
